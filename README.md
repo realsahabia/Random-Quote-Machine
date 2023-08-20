@@ -13,7 +13,7 @@ A simple web application that displays random quotes and allows users to tweet t
 
 ### Demo
 
-Open - [[https://random-quote-machine-five-phi.vercel.app/)](https://random-quote-machine-five-phi.vercel.app/){:target="_blank"}
+Open - [[https://random-quote-machine-five-phi.vercel.app/)](https://random-quote-machine-five-phi.vercel.app/)
 
 ## Features
 
